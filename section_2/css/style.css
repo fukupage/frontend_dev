@@ -1,0 +1,25 @@
+html {
+  font-size: 62.5%;
+}
+
+#container {
+  text-align: center;
+}
+
+#container .btn {
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #333;
+  padding: 0.5rem 4.0rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin: 5.0rem 0;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+#container .btn:hover {
+  background-color: #333;
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */
